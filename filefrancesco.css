@@ -1,0 +1,30 @@
+/* font e colore */
+/* Color: #2B9DF4
+
+Font: Orbitron, Jura */
+
+
+
+
+
+
+.linea{border-bottom: 2px rgb(43, 157, 244) solid; }
+.mar{text-align: right;}
+.scrittebianche{color: white;
+      font-family: "Orbitron", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+    }
+
+
+    .mar2{text-align: center;}
+
+    .mar3{margin-top: 250px;}
+
+    .colortitle{color:#2B9DF4 ;}
+
+    .razzo{background: url(./missile-2027068_1280.png); background-position: right; background-repeat: no-repeat; background-size: contain;}
+
+  .linea1{border: bottom ,solid,  5px , rgb(43, 157, 244)  }
+  
